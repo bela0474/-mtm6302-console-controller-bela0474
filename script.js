@@ -23,9 +23,4 @@ function setTheme(theme) {
   bodyElement.classList.add(theme);
 }
 
-// Example usage
-setTitle('Welcome to My Page');
-setDescription('This is a customizable page.');
-setBackgroundColor('#f0f0f0');
-setFontColor('#333333');
-setTheme('light-theme');
+
